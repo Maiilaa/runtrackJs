@@ -105,9 +105,10 @@
     <footer class="page-footer">
         <div class="container">
             <ul>
-                <li><a href="https://fr-fr.facebook.com/"><img src="fb.png" alt=""></a></li>
-                <li><a href="https://www.instagram.com/"><img src="insta.png" alt=""></a></li>
-                <li><a href="https://fr.linkedin.com/"><img src="linkedin.png" alt=""></a></li>
+                <li><a href="index.php">Accueil</a></li>
+                <li><a href="index.php">Inscription</a></li>
+                <li><a href="index.php">Connexion</a></li>
+                <li><a href="index.php">Rechercher</a></li>
             </ul>
         </div>
     </footer>
