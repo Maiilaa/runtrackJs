@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="fr">
 <head>
@@ -11,12 +10,12 @@
     <header>
         <nav>
             <div class="nav-wrapper">
-                <a href="#" class="brand-logo center">Mon Site</a>
+                <a href="index.php" class="brand-logo center">Mon Site</a>
                 <ul id="nav-mobile" class="left hide-on-med-and-down">
-                    <li><a href="index.html">Accueil</a></li>
-                    <li><a href="index.html">Inscription</a></li>
-                    <li><a href="index.html">Connexion</a></li>
-                    <li><a href="index.html">Rechercher</a></li>
+                    <li><a href="index.php">Accueil</a></li>
+                    <li><a href="index.php">Inscription</a></li>
+                    <li><a href="index.php">Connexion</a></li>
+                    <li><a href="index.php">Rechercher</a></li>
                 </ul>
             </div>
         </nav>
@@ -106,10 +105,9 @@
     <footer class="page-footer">
         <div class="container">
             <ul>
-                <li><a href="index.html">Accueil</a></li>
-                <li><a href="index.html">Inscription</a></li>
-                <li><a href="index.html">Connexion</a></li>
-                <li><a href="index.html">Rechercher</a></li>
+                <li><a href="https://fr-fr.facebook.com/"><img src="fb.png" alt=""></a></li>
+                <li><a href="https://www.instagram.com/"><img src="insta.png" alt=""></a></li>
+                <li><a href="https://fr.linkedin.com/"><img src="linkedin.png" alt=""></a></li>
             </ul>
         </div>
     </footer>
