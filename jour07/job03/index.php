@@ -8,7 +8,7 @@
 </head>
 <body>
     <header>
-        <nav class="blue darken-2">
+        <nav class="blue darken-2"> 
             <div class="nav-wrapper">
                 <a href="index.php" class="brand-logo center white-text">Mon Site</a>
                 <ul id="nav-mobile" class="left hide-on-med-and-down">
@@ -100,7 +100,7 @@
         </form>
     </section>
 
-    <footer class="page-footer grey darken-3">
+    <footer class="page-footer blue darken-2"> 
         <div class="container">
             <ul>
                 <li><a href="index.php" class="white-text">Accueil</a></li>
