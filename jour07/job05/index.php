@@ -47,13 +47,12 @@
                 </div>
             </div>
         </div>
-
-        <h5 class="green-text text-darken-3">Projets Récents</h5>
+<h5 class="green-text text-darken-3">Projets Récents</h5>
         <div class="row">
             <div class="col s12 m4">
                 <div class="card small">
                     <div class="card-image">
-                        <img src="https://via.placeholder.com/300x200" alt="Projet Santé">
+                        <img src="santé.jpg" alt="Projet Santé">
                     </div>
                     <div class="card-content">
                         <p>Amélioration des infrastructures de santé.</p>
@@ -63,7 +62,7 @@
             <div class="col s12 m4">
                 <div class="card small">
                     <div class="card-image">
-                        <img src="https://via.placeholder.com/300x200" alt="Projet Agriculture">
+                        <img src="agriculture.jpg" alt="Projet Agriculture">
                     </div>
                     <div class="card-content">
                         <p>Développement de l'agriculture durable.</p>
@@ -73,7 +72,7 @@
             <div class="col s12 m4">
                 <div class="card small">
                     <div class="card-image">
-                        <img src="https://via.placeholder.com/300x200" alt="Projet Environnement">
+                        <img src="environnement.jpg" alt="Projet Environnement">
                     </div>
                     <div class="card-content">
                         <p>Protection de l'environnement et lutte contre la déforestation.</p>
@@ -82,12 +81,12 @@
             </div>
         </div>
     </main>
-    <footer class="page-footer green darken-3">
-        <div class="container">
-            <div class="row">
-                <div class="col s12">
+    <footer class="page-footer green darken-3" style="padding: 0;">
+        <div class="container" style="padding: 0;">
+            <div class="row" style="margin: 0;">
+                <div class="col s12" style="margin: 0;">
                     <h6 class="white-text">HelpWorld</h6>
-                    <p class="grey-text text-lighten-4">Aider les communautés vulnérables d'Afrique à travers des projets humanitaires durables.</p>
+                    <p class="grey-text text-lighten-4">Aider les communautés vulnérables à travers des projets humanitaires durables.</p>
                 </div>
             </div>
         </div>
@@ -96,3 +95,4 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
 </body>
 </html>
+
