@@ -1,0 +1,11 @@
+{
+    "users": [
+      {"email": "user1@laplateforme.io", "role": "utilisateur"},
+      {"email": "mod1@laplateforme.io", "role": "modérateur"},
+      {"email": "admin@laplateforme.io", "role": "administrateur"}
+    ],
+    "requests": [
+      {"email": "user1@laplateforme.io", "date": "2024-09-25", "status": "pending"}
+    ]
+  }
+  
